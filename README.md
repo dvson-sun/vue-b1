@@ -1,9 +1,16 @@
-Hôm nay chúng ta có buổi khởi đầu khá là cháy /n
-Nội dung bài học hôm nay:
-Khái niệm Vue
-Các cách sử dụng Vue
-So sánh Vue, React và Angular
-Xây dựng todo list bằng js thuần
-Xây dựng todo list bằng Vue
-• Bài tập: thêm action delete, undo cho các item của list
-• Deadline: thứ 6 ngày 1/7
+# Buổi 1
+
+## Nội dung bài học hôm nay:  
+  
+`1.` Khái niệm Vue  
+`2.` Các cách sử dụng Vue  
+`3.` So sánh Vue, React và Angular  
+`4.` Xây dựng todo list bằng js thuần
+`5.`Xây dựng todo list bằng Vue
+  
+## Bài tập: 
+  
+`*` thêm action delete, undo cho các item của list  
+  
+## Deadline: thứ 6 ngày 1/7  
+  
